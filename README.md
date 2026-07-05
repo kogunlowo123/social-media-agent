@@ -47,6 +47,11 @@ Social media management agent that creates platform-specific posts, schedules pu
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 social-media-agent/
 │
